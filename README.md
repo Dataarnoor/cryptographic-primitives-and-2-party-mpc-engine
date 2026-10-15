@@ -62,8 +62,8 @@ The `pa1.py` through `pa20.py` filenames identify the implementation modules. `p
 Clone your copy:
 
 ```bash
-git clone https://github.com/Dataarnoor/pois-project.git
-cd pois-project
+git clone https://github.com/Dataarnoor/cryptographic-primitives-and-2-party-mpc-engine.git
+cd cryptographic-primitives-and-2-party-mpc-engine
 ```
 
 ### 1. Start the backend
@@ -114,7 +114,7 @@ The engine builds Boolean circuits from AND, XOR, and NOT gates. AND gates call 
 ## Repository layout
 
 ```text
-pois-project/
+cryptographic-primitives-and-2-party-mpc-engine/
 ├── backend/
 │   ├── main.py               # FastAPI endpoints and demo orchestration
 │   ├── requirements.txt      # Backend dependencies
